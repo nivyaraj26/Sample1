@@ -63,4 +63,6 @@ let id=Symbol("id")
 console.log(id)
 console.log(typeof id)
 
+console.log("All good")
+
 
